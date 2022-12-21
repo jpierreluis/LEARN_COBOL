@@ -1,5 +1,5 @@
       ******************************************************************
-      * Author:
+      * Author:https://www.programacionfacil.org/cursos/cobol/capitulo_6_palabras_sintaxis.html
       * Date:
       * Purpose:
       * Tectonics: cobc
@@ -14,4 +14,3 @@
             DISPLAY "Hello world"
             STOP RUN.
        END PROGRAM YOUR-PROGRAM-NAME.
-
